@@ -1,0 +1,14 @@
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\bin\Debug\net8.0\SchoolMgmt.DAL.deps.json
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\bin\Debug\net8.0\SchoolMgmt.DAL.runtimeconfig.json
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\bin\Debug\net8.0\SchoolMgmt.DAL.dll
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\bin\Debug\net8.0\SchoolMgmt.DAL.pdb
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\SchoolMgmt.DAL.csproj.AssemblyReference.cache
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\SchoolMgmt.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\SchoolMgmt.DAL.AssemblyInfoInputs.cache
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\SchoolMgmt.DAL.AssemblyInfo.cs
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\SchoolMgmt.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\SchoolMgmt.DAL.dll
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\refint\SchoolMgmt.DAL.dll
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\SchoolMgmt.DAL.pdb
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\SchoolMgmt.DAL.genruntimeconfig.cache
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.DAL\obj\Debug\net8.0\ref\SchoolMgmt.DAL.dll

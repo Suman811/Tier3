@@ -1,0 +1,17 @@
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\bin\Debug\net8.0\SchoolMgmt.BAL.deps.json
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\bin\Debug\net8.0\SchoolMgmt.BAL.runtimeconfig.json
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\bin\Debug\net8.0\SchoolMgmt.BAL.dll
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\bin\Debug\net8.0\SchoolMgmt.BAL.pdb
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\bin\Debug\net8.0\SchoolMgmt.DAL.dll
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\bin\Debug\net8.0\SchoolMgmt.DAL.pdb
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\SchoolMgmt.BAL.csproj.AssemblyReference.cache
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\SchoolMgmt.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\SchoolMgmt.BAL.AssemblyInfoInputs.cache
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\SchoolMgmt.BAL.AssemblyInfo.cs
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\SchoolMgmt.BAL.csproj.CoreCompileInputs.cache
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\SchoolMg.1098432A.Up2Date
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\SchoolMgmt.BAL.dll
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\refint\SchoolMgmt.BAL.dll
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\SchoolMgmt.BAL.pdb
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\SchoolMgmt.BAL.genruntimeconfig.cache
+C:\Users\sumandeep.kaur\source\repos\SchoolMgmt.BAL\obj\Debug\net8.0\ref\SchoolMgmt.BAL.dll
