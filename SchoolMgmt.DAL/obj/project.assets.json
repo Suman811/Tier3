@@ -4113,11 +4113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj",
       "projectName": "SchoolMgmt.DAL",
-      "projectPath": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj",
+      "projectPath": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj",
       "packagesPath": "C:\\Users\\sumandeep.kaur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\obj\\",
+      "outputPath": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,63 +1,75 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt\\",
+  "WorkspaceRootPath": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E21C5FD3-CE39-48C4-91AA-773D6314876C}|..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.bal\\schoolmgmt.bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E21C5FD3-CE39-48C4-91AA-773D6314876C}|..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj|c:\\users\\sumandeep.kaur\\desktop\\tier3\\schoolmgmt.bal\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21C5FD3-CE39-48C4-91AA-773D6314876C}|..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.bal\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E21C5FD3-CE39-48C4-91AA-773D6314876C}|..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj|c:\\users\\sumandeep.kaur\\desktop\\tier3\\schoolmgmt.bal\\serviceinterface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\desktop\\tier3\\schoolmgmt.dal\\repositoyinterface\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.dal\\repositoyinterface\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\desktop\\tier3\\schoolmgmt.dal\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.dal\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.dal\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|c:\\users\\sumandeep.kaur\\desktop\\tier3\\schoolmgmt\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21C5FD3-CE39-48C4-91AA-773D6314876C}|..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.bal\\serviceinterface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\TeacherRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21C5FD3-CE39-48C4-91AA-773D6314876C}|..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.bal\\serviceinterface\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\StudentModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.dal\\models\\teachermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|c:\\users\\sumandeep.kaur\\desktop\\tier3\\schoolmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Migrations\\20240716090307_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|c:\\users\\sumandeep.kaur\\desktop\\tier3\\schoolmgmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{85B17D82-0BE2-4CBE-81E3-EA5FB2D246DF}|SchoolMgmt.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.dal\\dbcontext\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\DBContext\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21C5FD3-CE39-48C4-91AA-773D6314876C}|..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.bal\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\ITeacherRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.dal\\repositoyinterface\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.dal\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\TeacherModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB75DBC-5913-4F71-836B-9F41D6F74935}|..\\SchoolMgmt.DAL\\SchoolMgmt.DAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\ITeacherService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21C5FD3-CE39-48C4-91AA-773D6314876C}|..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj|c:\\users\\sumandeep.kaur\\source\\repos\\schoolmgmt.bal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\TeacherService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,245 +79,280 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.BAL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\SchoolMgmt.BAL\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.BAL\\Services\\StudentService.cs*",
+              "RelativeToolTip": "..\\SchoolMgmt.BAL\\Services\\StudentService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:32:32.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs*",
+              "RelativeToolTip": "..\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:32:11.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs*",
+              "RelativeToolTip": "..\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:31:39.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs*",
+              "RelativeToolTip": "..\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:31:08.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "Controllers\\StudentController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T09:19:29.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "20240716090307_initial.cs",
               "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Migrations\\20240716090307_initial.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\Migrations\\20240716090307_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Migrations\\20240716090307_initial.cs",
               "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Migrations\\20240716090307_initial.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.DAL\\Migrations\\20240716090307_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Migrations\\20240716090307_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:03:08.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:59:43.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T08:59:04.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "databasecontext.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\DBContext\\databasecontext.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\DBContext\\databasecontext.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\DBContext\\databasecontext.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.DAL\\DBContext\\databasecontext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:45:32.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ITeacherRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\ITeacherRepository.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\RepositoyInterface\\ITeacherRepository.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\ITeacherRepository.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.DAL\\RepositoyInterface\\ITeacherRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:38:49.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:38:32.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TeacherModel.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\TeacherModel.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\Models\\TeacherModel.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\TeacherModel.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.DAL\\Models\\TeacherModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:11:17.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentModel.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\StudentModel.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\Models\\StudentModel.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\StudentModel.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.DAL\\Models\\StudentModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:10:58.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T09:03:08.007Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ITeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\ITeacherService.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.BAL\\ServiceInterface\\ITeacherService.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\ITeacherService.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.BAL\\ServiceInterface\\ITeacherService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:09:16.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T08:59:43.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\Desktop\\tier3\\SchoolMgmt\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T08:59:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "databasecontext.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\DBContext\\databasecontext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\DBContext\\databasecontext.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\DBContext\\databasecontext.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\DBContext\\databasecontext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:09:00.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T08:45:32.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\ITeacherRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:38:49.062Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\TeacherService.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.BAL\\Services\\TeacherService.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\TeacherService.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.BAL\\Services\\TeacherService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\RepositoyInterface\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:06:22.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T08:38:32.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.BAL\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\StudentService.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.BAL\\Services\\StudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "DocumentIndex": 14,
+              "Title": "TeacherModel.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\TeacherModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Models\\TeacherModel.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\TeacherModel.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Models\\TeacherModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:06:08.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T05:11:17.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SchoolMgmt.BAL",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj",
-              "RelativeToolTip": "..\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-16T05:05:32.988Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Models\\StudentModel.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:10:58.51Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "TeacherRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\TeacherRepository.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\Repositories\\TeacherRepository.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\TeacherRepository.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.DAL\\Repositories\\TeacherRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\ITeacherService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\ITeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:04:31.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:04:01.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T05:09:16.917Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Class1.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.DAL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\ServiceInterface\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:00:40.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T05:09:00.157Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\TeacherService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\Services\\TeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:06:22.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:06:08.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SchoolMgmt.BAL.csproj",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\SchoolMgmt.BAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T05:05:32.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:04:31.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:04:01.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.DAL\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:00:40.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\SchoolMgmt.BAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\Class1.cs",
               "ToolTip": "C:\\Users\\sumandeep.kaur\\source\\repos\\SchoolMgmt.BAL\\Class1.cs",
-              "RelativeToolTip": "..\\SchoolMgmt.BAL\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SchoolMgmt.BAL\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:00:12.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T05:00:12.961Z"
             }
           ]
         }

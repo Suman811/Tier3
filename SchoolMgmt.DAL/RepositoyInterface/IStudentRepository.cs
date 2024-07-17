@@ -10,6 +10,9 @@ namespace SchoolMgmt.DAL.RepositoyInterface
 {
     public interface IStudentRepository
     {
-        public Task <StudentModel> GetStudentById(int id); 
+        public Task<StudentModel> GetStudentById(int id);
+        public Task<StudentModel> InsertStudent(StudentModel studentModel);
+        public Task<StudentModel> UpdateStudent(StudentModel studentModel);
+        public void DeleteStudent(int id);
     }
 }
